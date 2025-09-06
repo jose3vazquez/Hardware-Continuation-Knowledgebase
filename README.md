@@ -1,6 +1,7 @@
 # 📘 CompTIA A+ Knowledge Base (Continued)
 
 This repository expands on the original **A+ Hardware Knowledge Base**, covering the **remaining domains of the CompTIA A+ (220-1101 & 220-1102)** exam that are often overshadowed by hardware.  
+
 It provides **600 exam-relevant facts**, organized into **10 major categories**, with **60 unique, non-repetitive facts each**.  
 
 This continuation project is designed as both a **study resource** and a **portfolio of structured technical writing**, ensuring complete coverage of the A+ blueprint.
@@ -54,5 +55,6 @@ Together, the two projects represent **full-spectrum A+ exam coverage**:
 
 
 👨‍💻 Curated & Documented by Jose Vazquez  
+
 
 
