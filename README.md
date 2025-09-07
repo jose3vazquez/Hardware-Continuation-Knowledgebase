@@ -10,7 +10,7 @@ This continuation project is designed as both a **study resource** and a **portf
 
 ## 📚 Categories
 
-1. 💻 [Operating Systems](01-operating-systems.md)  
+1. 💻 [Operating Systems](sections/01-operating-systems.md)  
 2. 🌐 [Networking (Logical & Protocol Layer)](02-networking.md)  
 3. 🔒 [Security](03-security.md)  
 4. 🖥️ [Software Troubleshooting (OS & Applications)](04-software-troubleshooting.md)  
@@ -55,6 +55,7 @@ Together, the two projects represent **full-spectrum A+ exam coverage**:
 
 
 👨‍💻 Curated & Documented by Jose Vazquez  
+
 
 
 
