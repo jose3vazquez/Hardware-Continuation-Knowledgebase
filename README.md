@@ -44,6 +44,18 @@ Together, the two projects represent **full-spectrum A+ exam coverage**:
 
 ---
 
+## 📜 License  
+Licensed under the MIT License  
+
+---
+
+## ✍️ Maintained By **Jose Vazquez**  
+
+💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**  
+
+📅 **Completed August 19, 2025**  
+
+
 
 
 
