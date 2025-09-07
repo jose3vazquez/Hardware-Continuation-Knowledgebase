@@ -11,15 +11,15 @@ This continuation project is designed as both a **study resource** and a **portf
 ## 📚 Categories
 
 1. 💻 [Operating Systems](sections/01-operating-systems.md)  
-2. 🌐 [Networking (Logical & Protocol Layer)](02-networking.md)  
-3. 🔒 [Security](03-security.md)  
-4. 🖥️ [Software Troubleshooting (OS & Applications)](04-software-troubleshooting.md)  
-5. 🛠️ [Hardware & Networking Troubleshooting](05-hardware-networking-troubleshooting.md)  
-6. 📑 [Operational Procedures](06-operational-procedures.md)  
-7. ☁️ [Cloud & Virtualization Fundamentals](07-cloud-virtualization.md)  
-8. 📱 [Mobile Device Software & Connectivity](08-mobile-connectivity.md)  
-9. ⚙️ [Virtualization & Scripting Basics](09-virtualization-scripting.md)  
-10. ⌨️ [Command-line Utilities & Tools](10-command-line-utilities.md)  
+2. 🌐 [Networking (Logical & Protocol Layer)](sections/02-networking.md)  
+3. 🔒 [Security](sections/03-security.md)  
+4. 🖥️ [Software Troubleshooting (OS & Applications)](sections/04-software-troubleshooting.md)  
+5. 🛠️ [Hardware & Networking Troubleshooting](sections/05-hardware-networking-troubleshooting.md)  
+6. 📑 [Operational Procedures](sections/06-operational-procedures.md)  
+7. ☁️ [Cloud & Virtualization Fundamentals](sections/07-cloud-virtualization.md)  
+8. 📱 [Mobile Device Software & Connectivity](sections/08-mobile-connectivity.md)  
+9. ⚙️ [Virtualization & Scripting Basics](sections/09-virtualization-scripting.md)  
+10. ⌨️ [Command-line Utilities & Tools](sections/10-command-line-utilities.md)  
 
 ---
 
@@ -55,6 +55,7 @@ Together, the two projects represent **full-spectrum A+ exam coverage**:
 
 
 👨‍💻 Curated & Documented by Jose Vazquez  
+
 
 
 
