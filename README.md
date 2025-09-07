@@ -42,7 +42,15 @@ Together, the two projects represent **full-spectrum A+ exam coverage**:
 
 📊 **Total Coverage**: 1,440 unique facts across all CompTIA A+ exam domains.  
 
----
+Exam Domains Covered
+This repository extends coverage to the CompTIA A+ Core 2 (220-1102) exam, emphasizing the non-hardware domains essential to IT support. It includes:
+
+- Operating system installation, configuration, and management
+- Security best practices and threat prevention
+- Software troubleshooting for PCs and mobile devices
+- Operational procedures for safety, documentation, and professionalism
+
+Together with the Hardware-Knowledgebase, this project provides complete coverage of the A+ Core 1 and Core 2 objectives.
 
 ## 📜 License  
 Licensed under the MIT License  
@@ -54,6 +62,7 @@ Licensed under the MIT License
 💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**  
 
 📅 **Completed August 19, 2025**  
+
 
 
 
