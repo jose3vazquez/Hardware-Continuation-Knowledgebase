@@ -48,13 +48,13 @@ Together, the two projects represent **full-spectrum A+ exam coverage**:
 
 - [x] Completed **10 categories**  
 - [x] Packaged in structured `.md` files  
-- [x] Bundled in `.zip` for easy distribution  
 - [x] Repo-ready with README  
 
 ---
 
 
-👨‍💻 Curated & Documented by Jose Vazquez  
+👨‍💻 Created & Documented by Jose Vazquez  
+
 
 
 
