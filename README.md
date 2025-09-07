@@ -68,3 +68,12 @@ Licensed under the MIT License
 
 📅 **Completed August 20, 2025**  
 
+---
+### Disclaimer
+
+CompTIA and A+ are registered trademarks of CompTIA, Inc.  
+This repository was created independently by Jose Vazquez as a study and reference guide for the **CompTIA A+ Core 2 (220-1102)** exam, focusing on operating systems, security, and software troubleshooting.  
+It is not affiliated with, sponsored by, or endorsed by CompTIA.
+
+
+
